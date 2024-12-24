@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamirGanbarli
 - 👀 I’m interested in Software Development and Artificial Intelligence (Natural Language Processing)
 - 🌱 I’m currently learning Python (Django, ML), Java (Spring Boot)
-- 💞️ Having more than 2 years in software java back end development
+- 📫 Having more than 2 years in software java back end development
 - 📫 you may reach me via email - sganbarli2021@ada.edu.az
